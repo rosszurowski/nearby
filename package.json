@@ -1,0 +1,14 @@
+{
+  "name": "nearby",
+  "version": "0.0.1",
+  "description": "Find array items within a distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+  	"name": "Ross Zurowski",
+  	"email": "ross@rosszurowski.com>"
+	},
+  "license": "MIT"
+}
